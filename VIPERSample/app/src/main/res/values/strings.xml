@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Viper Project</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="something_went_wrong">Something Went Wrong!</string>
+    <string name="viper_project">VIPER\nPROJECT</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="rating">Rating:</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="search">Search by title…</string>
+    <string name="no_match">No Match</string>
+    <string name="lessThanEighteen">suitable for infants</string>
+    <string name="eighteenPlus">18+</string>
+</resources>
